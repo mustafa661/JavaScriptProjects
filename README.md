@@ -1,2 +1,2 @@
-# JavaScriptProjects
- Some projects to demonstrate simple JavaScript
+# Javascriptprojects
+ This repository will contain 20 projects developed with HTML, CSS, and Javascript.
